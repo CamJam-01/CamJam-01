@@ -1,1 +1,4 @@
-[![Cameron's GitHub stats](./profile/stats.svg)](https://github.com/CamJam-01/github-readme-stats)
+## GitHub Stats
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
